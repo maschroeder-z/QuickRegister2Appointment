@@ -3,7 +3,7 @@
   "solution": {
     "name": "Fast Register to Appointment",
     "id": "8840a13c-f490-41e6-9c2a-e5cba8dfba1f",
-    "version": "1.0.0.0",
+    "version": "1.2.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,

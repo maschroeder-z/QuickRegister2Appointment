@@ -6,6 +6,7 @@ SharePoint Online provides a list of appointments (events) on a site. The "Event
 The special app extension adds a registration and deregistration function to the detailed view. Users can register for a specific appointment and later deregister with a simple click. Attendees are automatically managed in the attendee column of the list.
 
 ![UI of the generated form](https://www.dev-sky.net/img/apps/fastregisterappointment.png)
+
 *Extended interface of an appointment*
 
 ## Video
@@ -35,6 +36,7 @@ The special app extension adds a registration and deregistration function to the
 
 | Version | Date             | Comments                |
 | ------- | ---------------- | ----------------------- |
+| 1.2     | 19.09.2025       | Upgrade to SPFx 1.21.1  |
 | 1.1     | 24.07.2024       | Upgrade to SPFx 1.18    |
 | 1.0     | 30.09.2023       | Initial Release         |
 

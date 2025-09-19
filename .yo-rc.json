@@ -4,10 +4,10 @@
     "isCreatingSolution": true,
     "nodeVersion": "16.20.0",
     "sdksVersions": {
-      "@microsoft/microsoft-graph-client": "3.0.2",      
-      "@microsoft/teams-js": "2.12.0"
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
     },
-    "version": "1.18.2",
+    "version": "1.21.1",
     "libraryName": "fast-register-to-appointment",
     "libraryId": "8840a13c-f490-41e6-9c2a-e5cba8dfba1f",
     "environment": "spo",
