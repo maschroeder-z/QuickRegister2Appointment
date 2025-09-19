@@ -13,7 +13,7 @@ The special app extension adds a registration and deregistration function to the
 [![SharePoint Online: Fast & easy appointment booking](https://img.youtube.com/vi/_-aTpJPXRdA/hqdefault.jpg)](https://youtu.be/_-aTpJPXRdA)
 
 ## Used SharePoint Framework Version
-![version](https://img.shields.io/badge/version-1.18-green.svg)
+![version](https://img.shields.io/badge/version-1.21.1-green.svg)
 
 ## Applies to
 
